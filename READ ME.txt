@@ -1,0 +1,23 @@
+to run this project download below mentioned file and put them in one folder:
+1. test.encrypted
+2. test1.encrypted
+3. test3.encrypted
+4. passwordvault.py
+
+requirements : Python 3 (any version) and run this program in default python ide to avoide any program crashing.
+Below are the list of library files you will need, download if they are not installed:
+1. sqlite3
+2. tkinter
+3. os
+4. cryptography
+5. cvs
+6. requests
+
+Encryption and Decryption used:
+1. UTF-8 encoding and decoding
+2. 64-bit encoding and decoding
+
+Password:
+1. maruti
+2. 2
+3. Casper
